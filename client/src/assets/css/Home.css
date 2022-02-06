@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    background-color: #000000; 
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    overflow-y: scroll;
+}
+
+.modal-content{
+    border-radius: 15px !important;
+}
+
+.modal-body{
+    border-radius: 10px !important;
+}
